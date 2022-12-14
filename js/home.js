@@ -1,2 +1,3 @@
 let home = 'home js file created '
-console.log(home)
+let num = 1
+console.log(`${home}:${num}`)
