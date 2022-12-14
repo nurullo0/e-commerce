@@ -1,3 +1,3 @@
 let home = 'home js file created '
 let num = 1
-console.log(`${home}:${num}`)
+console.log(`${home}:${num} zaybal atdi bi git `)
